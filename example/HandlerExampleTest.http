@@ -1,0 +1,13 @@
+// Note: To run this example as http client, install VSCode Extension: `REST Client`.
+
+### OriginalHandler GET
+GET http://localhost:5000/original HTTP/1.1
+Content-Type: application/json
+
+### StringHandler GET
+GET http://localhost:5000/original/string HTTP/1.1
+Content-Type: application/json
+
+### SensitiveHandler GET
+GET http://localhost:5000/blinded HTTP/1.1
+Content-Type: application/json
