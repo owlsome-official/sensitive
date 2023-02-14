@@ -6,6 +6,8 @@
 
 Sensitive is a middleware for [GoFiber](https://gofiber.io/) to blind sensitive value like mobile no, citizen id, etc. by defined configuration. Useful for security policies.
 
+![./docs/hero.png](./docs/hero.png)
+
 ## Table of Contents
 
 - [Sensitive](#sensitive)
