@@ -2,7 +2,7 @@
 
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
 [![NPM](https://img.shields.io/badge/Watsize-Library-289548)](https://github.com/buildingwatsize)
-[![CodeQL](https://github.com/buildingwatsize/sensitive/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/buildingwatsize/sensitive/actions/workflows/github-code-scanning/codeql)
+[![CodeQL](https://github.com/buildingwatsize/sensitive/actions/workflows/codeql.yml/badge.svg)](https://github.com/buildingwatsize/sensitive/actions/workflows/codeql.yml)
 
 Sensitive is a middleware for [GoFiber](https://gofiber.io/) to blind sensitive value like mobile no, citizen id, etc. by defined configuration. Useful for security policies.
 
