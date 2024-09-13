@@ -3,8 +3,8 @@ package main
 import (
 	"example/handler"
 
-	"github.com/buildingwatsize/sensitive"
 	"github.com/gofiber/fiber/v2"
+	"github.com/owlsome-official/sensitive"
 )
 
 func main() {

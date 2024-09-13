@@ -1,8 +1,8 @@
 # Sensitive
 
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
-[![NPM](https://img.shields.io/badge/Watsize-Library-289548)](https://github.com/buildingwatsize)
-[![CodeQL](https://github.com/buildingwatsize/sensitive/actions/workflows/codeql.yml/badge.svg)](https://github.com/buildingwatsize/sensitive/actions/workflows/codeql.yml)
+[![NPM](https://img.shields.io/badge/Watsize-Library-289548)](https://github.com/owlsome-official)
+[![CodeQL](https://github.com/owlsome-official/sensitive/actions/workflows/codeql.yml/badge.svg)](https://github.com/owlsome-official/sensitive/actions/workflows/codeql.yml)
 
 Sensitive is a middleware for [GoFiber](https://gofiber.io/) to blind sensitive value like mobile no, citizen id, etc. by defined configuration. Useful for security policies.
 
@@ -25,7 +25,7 @@ Sensitive is a middleware for [GoFiber](https://gofiber.io/) to blind sensitive 
 ## Installation
 
 ```bash
-  go get -u github.com/buildingwatsize/sensitive
+  go get -u github.com/owlsome-official/sensitive
 ```
 
 ## Versions
@@ -100,4 +100,4 @@ var ConfigDefault = Config{
 Check it out! [example/README.md](./example/README.md)
 
 ---
-made by ❤️ [buildingwatsize](https://github.com/buildingwatsize)
+made by ❤️ [owlsome-official](https://github.com/owlsome-official)
