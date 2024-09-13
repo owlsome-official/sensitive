@@ -30,6 +30,11 @@ Sensitive is a middleware for [GoFiber](https://gofiber.io/) to blind sensitive 
 
 ## Versions
 
+### v0.2.2 - `2024-09-13`
+
+- Updated dependencies version
+- Transfer project to `owlsome-official`
+
 ### v0.2.1 - `2024-04-17`
 
 - Updated dependencies and module version
