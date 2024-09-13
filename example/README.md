@@ -34,7 +34,7 @@ func main() {
 ### Step 0: Clone & Change Directory
 
 ```bash
-git clone https://github.com/buildingwatsize/sensitive.git && cd sensitive/example
+git clone https://github.com/owlsome-official/sensitive.git && cd sensitive/example
 ```
 
 ### Step 1: Initialize
