@@ -1,7 +1,7 @@
 # Sensitive
 
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
-[![NPM](https://img.shields.io/badge/Watsize-Library-289548)](https://github.com/owlsome-official)
+[![Watsize-Library](https://img.shields.io/badge/Watsize-Library-289548)](https://github.com/owlsome-official)
 [![CodeQL](https://github.com/owlsome-official/sensitive/actions/workflows/codeql.yml/badge.svg)](https://github.com/owlsome-official/sensitive/actions/workflows/codeql.yml)
 
 Sensitive is a middleware for [GoFiber](https://gofiber.io/) to blind sensitive value like mobile no, citizen id, etc. by defined configuration. Useful for security policies.
@@ -14,6 +14,9 @@ Sensitive is a middleware for [GoFiber](https://gofiber.io/) to blind sensitive 
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Versions](#versions)
+    - [v0.2.3 - `2024-11-19`](#v023---2024-11-19)
+    - [v0.2.2 - `2024-09-13`](#v022---2024-09-13)
+    - [v0.2.1 - `2024-04-17`](#v021---2024-04-17)
     - [v0.2.0 - `2024-02-13`](#v020---2024-02-13)
     - [v0.1.0 - `2023-02-14`](#v010---2023-02-14)
   - [Signatures](#signatures)
@@ -29,6 +32,10 @@ Sensitive is a middleware for [GoFiber](https://gofiber.io/) to blind sensitive 
 ```
 
 ## Versions
+
+### v0.2.3 - `2024-11-19`
+
+- Updated dependencies version
 
 ### v0.2.2 - `2024-09-13`
 

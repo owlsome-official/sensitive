@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.2.3] - `2024-11-19`
+
+- Updated dependencies version
+
 ## [v0.2.2] - `2024-09-13`
 
 - Updated dependencies version
@@ -20,6 +24,7 @@
 - Supported custom mark (default: "x")
 - Debug Mode available via config `sensitive.New(sensitive.Config{ DebugMode: true })`
 
+[v0.2.3]: https://github.com/owlsome-official/sensitive/releases/tag/v0.2.3
 [v0.2.2]: https://github.com/owlsome-official/sensitive/releases/tag/v0.2.2
 [v0.2.1]: https://github.com/owlsome-official/sensitive/releases/tag/v0.2.1
 [v0.2.0]: https://github.com/owlsome-official/sensitive/releases/tag/v0.2.0
