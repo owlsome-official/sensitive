@@ -14,6 +14,7 @@ Sensitive is a middleware for [GoFiber](https://gofiber.io/) to blind sensitive 
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Versions](#versions)
+    - [v0.2.4 - `2025-02-17`](#v024---2025-02-17)
     - [v0.2.3 - `2024-11-19`](#v023---2024-11-19)
     - [v0.2.2 - `2024-09-13`](#v022---2024-09-13)
     - [v0.2.1 - `2024-04-17`](#v021---2024-04-17)
@@ -32,6 +33,10 @@ Sensitive is a middleware for [GoFiber](https://gofiber.io/) to blind sensitive 
 ```
 
 ## Versions
+
+### v0.2.4 - `2025-02-17`
+
+- Updated dependencies version
 
 ### v0.2.3 - `2024-11-19`
 
