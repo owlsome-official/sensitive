@@ -14,12 +14,6 @@ Sensitive is a middleware for [GoFiber](https://gofiber.io/) to blind sensitive 
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Versions](#versions)
-    - [v0.2.4 - `2025-02-17`](#v024---2025-02-17)
-    - [v0.2.3 - `2024-11-19`](#v023---2024-11-19)
-    - [v0.2.2 - `2024-09-13`](#v022---2024-09-13)
-    - [v0.2.1 - `2024-04-17`](#v021---2024-04-17)
-    - [v0.2.0 - `2024-02-13`](#v020---2024-02-13)
-    - [v0.1.0 - `2023-02-14`](#v010---2023-02-14)
   - [Signatures](#signatures)
   - [Examples](#examples)
   - [Config](#config)
@@ -33,34 +27,6 @@ Sensitive is a middleware for [GoFiber](https://gofiber.io/) to blind sensitive 
 ```
 
 ## Versions
-
-### v0.2.4 - `2025-02-17`
-
-- Updated dependencies version
-
-### v0.2.3 - `2024-11-19`
-
-- Updated dependencies version
-
-### v0.2.2 - `2024-09-13`
-
-- Updated dependencies version
-- Transfer project to `owlsome-official`
-
-### v0.2.1 - `2024-04-17`
-
-- Updated dependencies and module version
-
-### v0.2.0 - `2024-02-13`
-
-- Updated dependencies and module version
-
-### v0.1.0 - `2023-02-14`
-
-- Blind text from `abcdefg` into `axxxxxg` (just show only the first and the last character with "x" as mark in the middle)
-- Blinding by specific keys in response body
-- Supported custom mark (default: "x")
-- Debug Mode available via config `sensitive.New(sensitive.Config{ DebugMode: true })`
 
 [...more](./CHANGELOG.md)
 

@@ -27,7 +27,7 @@ func TestLogger(t *testing.T) {
 			l := tt.logger
 			l.Print(tt.args)
 			assert.NotEmpty(t, buf.String())
-			l.Printf(tt.args)
+			l.Printf("%s", tt.args)
 			assert.NotEmpty(t, buf.String())
 		})
 	}
