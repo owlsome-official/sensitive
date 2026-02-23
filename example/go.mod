@@ -6,7 +6,7 @@ replace github.com/owlsome-official/sensitive => ../
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.11
-	github.com/owlsome-official/sensitive v0.2.8
+	github.com/owlsome-official/sensitive v0.0.0
 )
 
 require (
